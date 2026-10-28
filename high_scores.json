@@ -1,0 +1,52 @@
+[
+    {
+        "initials": "BSW",
+        "score": 16850,
+        "mode": "HARD"
+    },
+    {
+        "initials": "BSW",
+        "score": 15450,
+        "mode": "HARD"
+    },
+    {
+        "initials": "BSW",
+        "score": 15300,
+        "mode": "HARD"
+    },
+    {
+        "initials": "ADW",
+        "score": 14500,
+        "mode": "EASY"
+    },
+    {
+        "initials": "BSW",
+        "score": 14350,
+        "mode": "EASY"
+    },
+    {
+        "initials": "ADW",
+        "score": 13000,
+        "mode": "EASY"
+    },
+    {
+        "initials": "BSW",
+        "score": 9100,
+        "mode": "HARD"
+    },
+    {
+        "initials": "ADW",
+        "score": 8900,
+        "mode": "EASY"
+    },
+    {
+        "initials": "ADW",
+        "score": 8850,
+        "mode": "EASY"
+    },
+    {
+        "initials":"TST",
+        "score": 8800,
+        "mode": "EASY"
+    }
+]
